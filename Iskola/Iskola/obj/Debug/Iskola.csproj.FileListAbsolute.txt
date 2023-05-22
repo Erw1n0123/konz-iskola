@@ -1,0 +1,9 @@
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\bin\Debug\nevek.txt
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\bin\Debug\Iskola.exe.config
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\bin\Debug\Iskola.exe
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\bin\Debug\Iskola.pdb
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\obj\Debug\Iskola.csproj.AssemblyReference.cache
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\obj\Debug\Iskola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\obj\Debug\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\obj\Debug\Iskola.exe
+C:\Users\Ervin\Desktop\asztali\iskola\konz-iskola\Iskola\Iskola\obj\Debug\Iskola.pdb
